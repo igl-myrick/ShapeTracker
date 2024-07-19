@@ -12,5 +12,10 @@ namespace ShapeTracker.Models
       Side2 = length2;
       Side3 = length3;
     }
+
+    public string CheckType()
+    {
+      return "I can't answer that yet";
+    }
   }
 }
