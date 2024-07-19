@@ -35,12 +35,12 @@ namespace ShapeTracker.Models
 
     public void SetSide2(int newSide)
     {
-      _side2 = NewSide;
+      _side2 = newSide;
     }
 
-    public void SetSide3(int NewSide)
+    public void SetSide3(int newSide)
     {
-      _side3 = NewSide;
+      _side3 = newSide;
     }
 
     public string CheckType()
