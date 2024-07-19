@@ -1,4 +1,7 @@
-public class Triangle
+namespace ShapeTracker.Models
 {
-  
+  public class Triangle
+  {
+
+  }
 }
