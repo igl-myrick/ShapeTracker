@@ -3,7 +3,7 @@ namespace ShapeTracker.Models
   public class Rectangle
   {
     public int Side1 { get; set; }
-    public int Side2 { get; }
+    public int Side2 { get; set; }
 
     public Rectangle(int length1, int length2)
     {
