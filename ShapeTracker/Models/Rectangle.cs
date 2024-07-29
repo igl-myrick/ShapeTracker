@@ -10,5 +10,10 @@ namespace ShapeTracker.Models
       Side1 = length1;
       Side2 = length2;
     }
+
+    public int GetArea()
+    {
+      return Side1 * Side2;
+    }
   }
 }
