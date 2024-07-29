@@ -2,7 +2,7 @@ namespace ShapeTracker.Models
 {
   public class Rectangle
   {
-    public int Side1 { get; }
+    public int Side1 { get; set; }
     public int Side2 { get; }
 
     public Rectangle(int length1, int length2)
