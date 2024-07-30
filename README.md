@@ -1,6 +1,3 @@
-In the command line, run the command "dotnet run" to compile and execute the console application.
-Optionally, you can run "dotnet build" to compile this console app without running it.
-
 # Shape Tracker
 
 #### _An application to calculate information about various shapes._
@@ -25,7 +22,7 @@ _1: Clone the repository to a folder of choice on your machine (by either using 
 
 _2: Using a terminal application such as Git Bash or Windows Command Prompt, navigate to the top level of the program folder, then into the `ShapeTracker` folder._
 
-_3: Next, run `dotnet build` to build the program._
+_3: Next, run `dotnet build` in the command line to build the program._
 
 _4: Once the program is built, run `dotnet run` to use the program._
 
